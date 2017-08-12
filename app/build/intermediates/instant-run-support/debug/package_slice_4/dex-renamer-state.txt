@@ -1,0 +1,4 @@
+#Tue Aug 08 01:32:50 CDT 2017
+base.0=C\:\\AndroidStudioWorkspace\\database\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+renamed.0=classes.dex
+file.0=C\:\\AndroidStudioWorkspace\\database\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex

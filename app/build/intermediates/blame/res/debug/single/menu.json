@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\AndroidStudioWorkspace\\database\\app\\build\\intermediates\\res\\merged\\debug\\menu\\operations.xml",
+        "source": "C:\\AndroidStudioWorkspace\\database\\app\\src\\main\\res\\menu\\operations.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioWorkspace\\database\\app\\build\\intermediates\\res\\merged\\debug\\menu\\display.xml",
+        "source": "C:\\AndroidStudioWorkspace\\database\\app\\src\\main\\res\\menu\\display.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioWorkspace\\database\\app\\build\\intermediates\\res\\merged\\debug\\menu\\data.xml",
+        "source": "C:\\AndroidStudioWorkspace\\database\\app\\src\\main\\res\\menu\\data.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioWorkspace\\database\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\AndroidStudioWorkspace\\database\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioWorkspace\\database\\app\\build\\intermediates\\res\\merged\\debug\\menu\\extra.xml",
+        "source": "C:\\AndroidStudioWorkspace\\database\\app\\src\\main\\res\\menu\\extra.xml"
+    }
+]
